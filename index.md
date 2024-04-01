@@ -6,7 +6,7 @@ I am a Junior at Lehigh University. I am currently majoring in Finance with a mi
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="" width="50%">
+  <img class="img-circle" src="images/IMG_1850.jpg" width="50%">
 </p>
 
 ---
