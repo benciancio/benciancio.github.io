@@ -1,3 +1,10 @@
+---
+ layout: wide_default
+ ---    
+    
+
+
+
 # Real Estate Prediction Model
 
 ## Necessary Imports
