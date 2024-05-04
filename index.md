@@ -17,9 +17,9 @@ Below are a few projects I have worked on throughout my time at Lehigh.
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Real Estate Sale Price Prediction Model](model)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+The above link shows python code for a model that predicts Real Estate Sale Prices for the given dataframe! As a Real Estate minor and someone who has interned in Real Estate brokerage, this was my personal favorite coding assignment to do.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
