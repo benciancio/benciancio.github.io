@@ -13,6 +13,8 @@ I am a Junior at Lehigh University. I am currently majoring in Finance with a mi
 
 ## Portfolio
 
+Below are a few projects I have worked on throughout my time at Lehigh.
+
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
 _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
