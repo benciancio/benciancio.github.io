@@ -57,14 +57,14 @@ I hope to continue to earn experience and develop the skills necessary to be suc
 
 Outside of academic and career interests, here are a few of my hobbies:
 - Community Service
-    - Worked as the Community Service chair for Lehigh Psi Upsilon
+      - Worked as the Community Service chair for Lehigh Psi Upsilon
 - Skiing
 - Avid NFL and NBA fan (Go Jets and Knicks!)
 - Fitness
 - Hiking
 - Video Editing
 - Going to the beach
-
+<img src="images/ski.png"/>
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
