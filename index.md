@@ -1,8 +1,7 @@
 ## About Me
 Hello!
 
-I am a Junior at Lehigh University. I am currently majoring in Finance with a minor in Real Estate. As a student, I have always excelled when working with numbers and mathematics. I possess strong communication and leadership skills and I am looking for an internship in the Finance or Real Estate industries to grow my skills and experience.
-
+I am a Junior at Lehigh University. I am currently majoring in Finance with a minor in Real Estate. As a student, I have always excelled when working with numbers and mathematics. I possess strong communication and leadership skills and I am looking to work in Commercial Real Estate Brokerage following my graduation in May 2025.
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
