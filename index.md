@@ -25,21 +25,16 @@ The above link shows python code for a model that predicts Real Estate Sale Pric
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+_**[Eventual team project](https://benciancio.github.io/teamproject/)**_
 
----
+Although not active yet, the above link will lead to my teams final project for our FIN 377 class. We are in the process of constucting a dashboard that acts as a wealth manager for its users. Users will take a short quiz and our dashboard will output an optimal portfolio of indices based on the user's preferences! 
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Marketing Brand Extension Project](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
