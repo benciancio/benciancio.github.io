@@ -1,8 +1,6 @@
 title: Ben Ciancio # your name (or website title) here
 logo: "images/dog.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-
-  <br>
   <a href="https://www.linkedin.com/in/bciancio/">LinkedIn</a> 
   <br>
   <a href="images/Ben Ciancio Resume.pdf" class="btn btn--info">Resume</a>  
