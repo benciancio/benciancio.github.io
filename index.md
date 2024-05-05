@@ -21,7 +21,7 @@ _**[Real Estate Sale Price Prediction Model](model)**_
 
 The above link shows python code for a model that predicts Real Estate Sale Prices for the given dataframe! As a Real Estate minor and someone who has interned in Real Estate brokerage, this was my personal favorite coding assignment to do.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
