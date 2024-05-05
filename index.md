@@ -26,7 +26,7 @@ The above link shows python code for a model that predicts Real Estate Sale Pric
 
 
 
-_**[Eventual team project](https://wealth-advisor-dashboard-zxeuck5wssugu23mf7cjon.streamlit.app/)**_
+_**[Wealth Management Dashboard](https://wealth-advisor-dashboard-zxeuck5wssugu23mf7cjon.streamlit.app/)**_
 
 Although not complete yet, the above link leads to my teams final project for our FIN 377 class. We are in the process of constucting a dashboard that acts as a wealth manager for its users. Users will take a short quiz and our dashboard will output an optimal portfolio of indices based on the user's preferences! 
 
