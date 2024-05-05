@@ -38,7 +38,7 @@ _**[Marketing Brand Extension Project](/pdf/MKT_111.pdf)**_
 
 
 
-<img src="images/wallet.jpg?raw=true"/>
+<img src="images/wallet.png"/>
 
 ---
 
