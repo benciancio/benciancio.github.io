@@ -47,15 +47,23 @@ This project was a group marketing final. We decided to do a brand extension for
 
 ## Career Objectives
 
-Write what you want. 
+My ultimate goal upon graduating Lehigh is to work as a Commercial Real Estate Broker in Investment Sales. I spent my summer after sophmore year working as a Real Estate Intern for Sackman and Keyah Enterprises. This helped me develope the necessary skills to work in leasing and property management. This upcoming summer, I will be working as a Commercial Real Estate Brokerage Intern for Invictus Property Advisors. In preparation for this role, I have begun working towards my New York State Real Estate Salesperson License.
 
-Sell yourself!
+I hope to continue to earn experience and develop the skills necessary to be successful in the New York Commercial Real Estate industry. 
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Outside of academic and career interests, here are a few of my hobbies:
+- Community Service
+    - Worked as the Community Service chair for Lehigh Psi Upsilon
+- Skiing
+- Avid NFL and NBA fan (Go Jets and Knicks!)
+- Fitness
+- Hiking
+- Video Editing
+- Going to the beach
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
