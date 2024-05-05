@@ -57,7 +57,7 @@ I hope to continue to earn experience and develop the skills necessary to be suc
 
 Outside of academic and career interests, here are a few of my hobbies:
 - Community Service
-      - Worked as the Community Service chair for Lehigh Psi Upsilon
+  - Worked as the Community Service chair for Lehigh Psi Upsilon
 - Skiing
 - Avid NFL and NBA fan (Go Jets and Knicks!)
 - Fitness
