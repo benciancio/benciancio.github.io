@@ -34,7 +34,7 @@ Although not active yet, the above link will lead to my teams final project for 
 
 ---
 
-_**[Marketing Brand Extension Project](/pdf/sample_presentation.pdf)**_
+_**[Marketing Brand Extension Project](/pdf/mkt_111.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
