@@ -34,7 +34,7 @@ Although not complete yet, the above link leads to my teams final project for ou
 
 ---
 
-_**[Marketing Brand Extension Project](/pdf/mkt_111.pdf)**_
+_**[Marketing Brand Extension Project](/pdf/MKT_111.pdf)**_
 
 
 
