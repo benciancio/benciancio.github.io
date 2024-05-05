@@ -64,7 +64,7 @@ Outside of academic and career interests, here are a few of my hobbies:
 - Hiking
 - Video Editing
 - Going to the beach
-<img src="images/ski.png"/>
+<img src="images/ski.jpeg"/>
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
