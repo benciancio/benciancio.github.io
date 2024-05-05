@@ -36,9 +36,12 @@ Although not complete yet, the above link leads to my teams final project for ou
 
 _**[Marketing Brand Extension Project](/pdf/MKT_111.pdf)**_
 
+This project was a group marketing final. We decided to do a brand extension for American Express by inventing the AMEX wallet. The concept is to combine your AMEX credit card and wallet into one, easy to use, metal, accessory. The prototypes we designed are shown below. In the link above, you can see all the aspects of our project such as the brand analysis, market research, advertising, financial analysis, and more!
+
 
 
 <img src="images/wallet.png"/>
+<img src="images/competitive_review.png"/>
 
 ---
 
