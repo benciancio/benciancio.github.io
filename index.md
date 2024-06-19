@@ -1,7 +1,9 @@
 ## About Me
 Hello!
 
-I am a Junior at Lehigh University. I am currently majoring in Finance with a minor in Real Estate. As a student, I have always excelled when working with numbers and mathematics. I possess strong communication and leadership skills and I am looking to work in Commercial Real Estate Brokerage following my graduation in May 2025.
+I am a rising Senior at Lehigh University majoring in Finance with a minor in Real Estate. As a student, I have always excelled when working with numbers and mathematics. I possess strong communication and leadership skills and am looking to pursue a career in Commercial Real Estate. 
+
+I am also a New York State licensed Real Estate Salesperson with prior internship experience working in Multi-Family Leasing and Property Management. I am currently interning in Investment Sales Commercial Real Estate Brokerage.
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
@@ -28,7 +30,7 @@ The above link shows python code for a model that predicts Real Estate Sale Pric
 
 _**[Wealth Management Dashboard](https://wealth-advisor-dashboard-zxeuck5wssugu23mf7cjon.streamlit.app/)**_
 
-Although not complete yet, the link above leads to my team's final project for our FIN 377 class. We are in the process of constucting a dashboard that acts as a wealth manager for its users. Users will take a short quiz and our dashboard will output an optimal portfolio of indices based on the user's preferences! Below is a rough sketch of what the dashboard will look like when it is fully complete. 
+The link above leads to my team's final project for our FIN 377 class. We constucted a dashboard that acts as a wealth manager for its users. Users will take a short quiz and our dashboard will output an optimal portfolio of indices based on the user's preferences! Below is our initial rough sketch of our idea for the dashboard before we brought it to life through hours of collaboration, research, and writing python code. 
 
 
 <img src="images/Example_Photo.jpg"/>
@@ -48,7 +50,7 @@ This project was a group marketing final. We decided to do a brand extension for
 
 ## Career Objectives
 
-My ultimate goal upon graduating Lehigh is to work as a Commercial Real Estate Broker in Investment Sales. I spent my summer after sophmore year working as a Real Estate Intern for Sackman and Keyah Enterprises. This helped me develop the necessary skills to work in leasing and property management. This upcoming summer, I will be working as a Commercial Real Estate Brokerage Intern for Invictus Property Advisors. In preparation for this role, I have begun working towards my New York State Real Estate Salesperson License.
+My ultimate goal upon graduating Lehigh is to work as a Commercial Real Estate Broker in Investment Sales. I spent my summer after sophmore year working as a Real Estate Intern for Sackman and Keyah Enterprises. This helped me develop the necessary skills to work in leasing and property management. Currently, I am working as a Commercial Real Estate Brokerage Intern for Invictus Property Advisors. In preparation for this role, I obtained my New York State Real Estate Salesperson License.
 
 I hope to continue to earn experience and develop the skills necessary to be successful in the New York Commercial Real Estate industry. 
 
